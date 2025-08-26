@@ -1,0 +1,16 @@
+INSERT INTO mydbspring.Orders (id, name, price, quantity, customerId) VALUES
+(1, 'Wireless Mouse', 799.00, 2, 1),
+(2, 'Bluetooth Headphones', 2499.00, 1, 2),
+(3, 'USB-C Charger', 1199.00, 3, 3),
+(4, 'Laptop Stand', 1499.00, 1, 4),
+(5, 'Mechanical Keyboard', 3499.00, 1, 5),
+(6, 'Webcam HD', 1999.00, 2, 6),
+(7, 'Smartwatch Band', 499.00, 4, 7),
+(8, 'Portable SSD 1TB', 5999.00, 1, 8),
+(9, 'Noise Cancelling Earbuds', 2999.00, 2, 9),
+(10, 'Gaming Mousepad', 699.00, 3, 10),
+(11, 'HDMI Cable', 399.00, 5, 11),
+(12, 'Smart LED Bulb', 899.00, 2, 12),
+(13, 'Fitness Tracker', 1999.00, 1, 13),
+(14, 'Wireless Keyboard', 1799.00, 2, 14),
+(15, 'Phone Tripod', 999.00, 1, 15);
